@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Home',     url: ''}
-- {name: 'Posts',    url: 'posts'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Home',     url: 'TazSolaceDemo/'}
+- {name: 'Posts',    url: 'TazSolaceDemo/posts'}
+- {name: 'About',    url: 'TazSolaceDemo/about'}
+- {name: 'Contact',  url: 'TazSolaceDemo/contact'}
 
 #-------------------------------
 # Projects Section
