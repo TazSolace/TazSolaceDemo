@@ -12,7 +12,7 @@ menu:
 
 projects:
 - {name: 'Music',   url: 'music'}
-- {name: 'Nixie Creative',   url: 'design'}
+- {name: 'Design',   url: 'design'}
 - {name: 'Art', url: 'art'}
 - {name: 'Project Four',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
