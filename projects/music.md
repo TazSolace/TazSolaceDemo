@@ -11,11 +11,11 @@ Taz's music on Bandcamp: https://tazsolace.bandcamp.com/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKkhdDyjDxg?si=5P-6JKaiSodIO-mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% include image="assets/img/projects/proj-1/20221015_VOAF_Day2-71.jpg" %}
+{% include image.html image="assets/img/projects/music/thumbnail.jpg" %}
 Image by Jamie Poh
 
-{% include image="assets/img/projects/proj-1/19488786_1767006166650762_5485956965889146667_o.jpg" %}
+{% include image.html image="assets/img/projects/music/tazroundhouse2017.jpg" %}
 
-{% include image="assets/img/projects/proj-1/10446118_358476384277652_6497792367714663928_o.jpg" %}
+{% include image.html image="assets/img/projects/music/tazroundhousepiano2014.jpg" %}
 Image by belle ancell
 
