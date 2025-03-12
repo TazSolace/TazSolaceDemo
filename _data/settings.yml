@@ -11,11 +11,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Music',   url: 'music'}
-- {name: 'Design',   url: 'design'}
-- {name: 'Art', url: 'art'}
+- {name: 'Music',  url: 'music'}
+- {name: 'Design',  url: 'design'}
+- {name: 'Art',  url: 'art'}
 - {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
@@ -33,7 +32,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Taz Solace - Multidisciplinary Creative Queer Non-Binary Singer-Songwriter, Artist, Designer, Community Organizer '
+  description: 'Taz Solace - Multidisciplinary Creative Queer Non-Binary Singer-Songwriter, Artist, Designer'
   rel-author: 'Taz Solace'
   rel-publisher: 'Taz Solace'
 
