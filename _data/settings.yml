@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Music',  url: 'music'}
+- {name: 'Music',  folder: 'music', file:'projects/music.md'} 
 - {name: 'Design',  url: 'design'}
 - {name: 'Art',  url: 'art'}
 - {name: 'Project Four',  url: 'proj-4'}
