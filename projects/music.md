@@ -17,6 +17,6 @@ Image by Jamie Poh
 ![Image of Taz performing with colourful top and both hands up. Black background](assets/img/projects/music.md/tazroundhouse2017.jpg)
 {% include image.html image="assets/img/projects/music/tazroundhouse2017.jpg" alt="Image of Taz performing with colourful top and both hands up. Black background" %}
 
-{% include image.html image="assets/img/projects/music/tazroundhousepiano2014.jpg" %}
+{% include image.html image="assets/img/tazroundhousepiano2014.jpg" %}
 Image by belle ancell
 
