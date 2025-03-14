@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+# regenerate: true
 
 Gem::Specification.new do |spec|
   spec.name          = "portfolio-jekyll-theme"
