@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Music'
+permalink: /music
 ---
 
 Taz Solace has been a lifelong singer and performer passionate about the power of self-expression and connection through music and performance. With a DIY/DIT (Do It Yourself/ Do It Together) ethos, they infuse indie pop, dance, new wave, rock, and R&B genres, combining infectious hooks, sugary rhymes, Y2K nostalgia, and a soulful voice to draw you into a colourful world of joy, empowerment, liberation, introspection, and hope. 
@@ -11,11 +12,11 @@ Taz's music on Bandcamp: [https://tazsolace.bandcamp.com/](url)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKkhdDyjDxg?si=5P-6JKaiSodIO-mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% include image.html image="assets/img/projects/music/thumbnail.jpg" %}
+{% include image.html image="assets/img/projects/music.md/thumbnail.jpg" %}
 Image by Jamie Poh
 
-{% include image.html image="assets/img/projects/music/tazroundhouse2017.jpg" %}
+{% include image.html image="assets/img/projects/music.md/tazroundhouse2017.jpg" %}
 
-{% include image.html image="assets/img/projects/music/tazroundhousepiano2014.jpg" %}
+{% include image.html image="assets/img/projects/music.md/tazroundhousepiano2014.jpg" %}
 Image by belle ancell
 
