@@ -12,9 +12,8 @@ menu:
 
 projects:
 - {name: 'Music',  folder: 'music', file:'projects/music.md',  url: 'music'} 
-- {name: 'Design',  url: 'design'}
-- {name: 'Art',  url: 'art'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Design',  folder: 'design', file:'projects/design.md', url: 'design'}
+- {name: 'Art', folder: 'art', file:'projects/art.md', url: 'art'}
 
 #-------------------------------
 # Contact Section
